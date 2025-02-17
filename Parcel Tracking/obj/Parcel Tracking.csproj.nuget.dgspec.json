@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\IITA-MISTRNG\\source\\repos\\Parcel Tracking\\Parcel Tracking\\Parcel Tracking.csproj": {}
+    "C:\\Users\\IITA-MISTRNG\\source\\repos\\Parcel Tracking\\Parcel-System\\Parcel Tracking\\Parcel Tracking.csproj": {}
   },
   "projects": {
-    "C:\\Users\\IITA-MISTRNG\\source\\repos\\Parcel Tracking\\Parcel Tracking\\Parcel Tracking.csproj": {
+    "C:\\Users\\IITA-MISTRNG\\source\\repos\\Parcel Tracking\\Parcel-System\\Parcel Tracking\\Parcel Tracking.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\IITA-MISTRNG\\source\\repos\\Parcel Tracking\\Parcel Tracking\\Parcel Tracking.csproj",
+        "projectUniqueName": "C:\\Users\\IITA-MISTRNG\\source\\repos\\Parcel Tracking\\Parcel-System\\Parcel Tracking\\Parcel Tracking.csproj",
         "projectName": "Parcel Tracking",
-        "projectPath": "C:\\Users\\IITA-MISTRNG\\source\\repos\\Parcel Tracking\\Parcel Tracking\\Parcel Tracking.csproj",
+        "projectPath": "C:\\Users\\IITA-MISTRNG\\source\\repos\\Parcel Tracking\\Parcel-System\\Parcel Tracking\\Parcel Tracking.csproj",
         "packagesPath": "C:\\Users\\IITA-MISTRNG\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\IITA-MISTRNG\\source\\repos\\Parcel Tracking\\Parcel Tracking\\obj\\",
+        "outputPath": "C:\\Users\\IITA-MISTRNG\\source\\repos\\Parcel Tracking\\Parcel-System\\Parcel Tracking\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
