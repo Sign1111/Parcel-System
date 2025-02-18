@@ -1,5 +1,5 @@
-# Use the official image from Microsoft for ASP.NET Core
-FROM mcr.microsoft.com/dotnet/aspnet:7.0 AS base
+# Use the .NET 7.0 SDK image
+FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 WORKDIR /app
 EXPOSE 80
 
