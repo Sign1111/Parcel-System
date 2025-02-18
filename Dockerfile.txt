@@ -1,3 +1,5 @@
+# Use the .NET 7.0 SDK image
+FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build
 # Stage 1: Build the app
 FROM mcr.microsoft.com/dotnet/sdk:7.0 AS build-env
 WORKDIR /app
